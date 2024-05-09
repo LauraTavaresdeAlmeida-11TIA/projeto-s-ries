@@ -1,19 +1,24 @@
-*{
-body {
+* {
+  body {
     background-color: #FFC0CB;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+  }
 
- h1 {
- color: #c026d3;
+  h1 {
+    color: #c026d3;
   }
 
   h2 {
-    color: #8B008B ;
-     }
-     h3 {
-        color: #8B008B;
-         }
+    color: #8B008B;
+  }
+
+  h3 {
+    color: #8B008B;
+  }
+
+  header{
+    background-color: #FFB6C1
+  }
 
   .serie {
     max-width: 412px;
@@ -22,5 +27,5 @@ body {
     margin-block: 64px;
     border-radius: 30px;
   }
-       
+
 }
